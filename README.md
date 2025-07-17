@@ -1,4 +1,5 @@
- Catalog-Z – Photo & Video Gallery Website
+#Catalog-Z –
+Photo & Video Gallery Website
 Catalog-Z is a responsive photo and video gallery project designed using HTML, CSS (Grid + Flexbox). It provides a clean and user-friendly layout for showcasing media content with pagination, a search bar, and a fully customized footer.
 
 This project is ideal for photographers, content creators, or anyone looking to build a portfolio-style image/video grid UI.
